@@ -130,7 +130,7 @@ dmypy.json
 .pyre/
 
 # Remove datasets
-.csv
-.tsv
-.xlsx
-.xsl
+*.csv
+*.tsv
+*.xlsx
+*.xsl
